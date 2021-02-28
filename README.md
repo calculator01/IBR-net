@@ -2,7 +2,7 @@
 
 ## IBR-net (wip)
 
-Implementation of <a href="https://arxiv.org/abs/2102.13090">IBRNet, Learning Multi-View Image-Based Rendering</a>, in Pytorch. They combined NERF and attention for 3d scene representation, and pushed the network to be able to generalize to novel scenes.
+Implementation of <a href="https://arxiv.org/abs/2102.13090">IBRNet, Learning Multi-View Image-Based Rendering</a>, in Pytorch. They combined NERF and attention (Ray transformer) for 3d scene representation, and pushed the network to be able to generalize to novel scenes.
 
 ## Citations
 
